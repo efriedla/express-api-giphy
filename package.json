@@ -1,0 +1,26 @@
+{
+  "name": "express-api-giphy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efriedla/express-api-giphy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efriedla/express-api-giphy/issues"
+  },
+  "homepage": "https://github.com/efriedla/express-api-giphy#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.5",
+    "request": "^2.82.0"
+  }
+}

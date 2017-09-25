@@ -1,0 +1,26 @@
+body{
+	text-align:center;
+	background-color: black;
+}
+
+
+button{
+  height: 35px;
+  border: none;
+  padding: 10px;
+}
+
+img{
+  height: 250px;
+  width: 250px;
+}
+
+input[type=text]{
+  width: 200px;
+  padding: 10px;
+  border: 2px solid lightgrey; 
+}
+
+h1{
+	color:white;
+}
